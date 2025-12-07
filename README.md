@@ -28,10 +28,10 @@ Run all cells to train models and generate visualizations.
 
 | Model | Test R² | Test RMSE |
 |-------|---------|-----------|
-| Linear Regression | 0.611 | $72.4k |
-| Neural Network | 0.793 | $59.7k |
+| Linear Regression | 0.576 | $72.4k |
+| Neural Network | 0.712 | $59.7k |
 
-Neural Network achieves 29.9% improvement over Linear Regression.
+Neural Network achieves 23.6% improvement over Linear Regression.
 
 ## Dataset
 
